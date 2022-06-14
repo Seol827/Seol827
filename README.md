@@ -71,7 +71,7 @@
 
 
   ### Langs
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol827&layout=compact&card_width=445&hide=html,css)](https://github.com/Seol827/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol827&layout=compact&card_width=445&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
