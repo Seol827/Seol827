@@ -69,9 +69,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seol827&&show_icons=true&theme=graywhite)
 
-
-  ### Langs
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol827&layout=compact&card_width=445&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
