@@ -66,8 +66,7 @@
 <br>
   
   ### 🅶 Stats
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seol827&&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=Seol827&&show_icons=true&theme=graywhite)
 
 </div> 
 
