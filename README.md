@@ -11,7 +11,11 @@
   <p>I'm a FE developer in React, JavaScript.<p>
   <p>Also I have some experience with BE projects mostly in Java, Spring.<p>
   <p>For sure, My Final goal is FULL-STACK!🌸<p>
-  <br>
+
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Seol827" width="1000" height="60"/>
+</a>
+<br>
   
 
   ### 💪🏻Tech Stack
